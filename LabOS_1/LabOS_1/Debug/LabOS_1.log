@@ -1,0 +1,6 @@
+﻿  Allocator.cpp
+c:\users\user\documents\visual studio 2015\projects\labos_1\labos_1\allocator.cpp(80): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\documents\visual studio 2015\projects\labos_1\labos_1\allocator.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\visual studio 2015\projects\labos_1\labos_1\allocator.cpp(316): warning C4018: >: несоответствие типов со знаком и без знака
+  LabOS_1.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\LabOS_1\Debug\LabOS_1.exe
+  LabOS_1.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\LabOS_1\Debug\LabOS_1.pdb (Full PDB)
